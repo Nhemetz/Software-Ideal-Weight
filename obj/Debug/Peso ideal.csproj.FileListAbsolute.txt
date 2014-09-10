@@ -1,0 +1,5 @@
+C:\Users\leonardo\AppData\Local\Temporary Projects\Peso ideal\bin\Debug\Peso ideal.exe
+C:\Users\leonardo\AppData\Local\Temporary Projects\Peso ideal\bin\Debug\Peso ideal.pdb
+C:\Users\leonardo\AppData\Local\Temporary Projects\Peso ideal\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\leonardo\AppData\Local\Temporary Projects\Peso ideal\obj\Debug\Peso ideal.exe
+C:\Users\leonardo\AppData\Local\Temporary Projects\Peso ideal\obj\Debug\Peso ideal.pdb
